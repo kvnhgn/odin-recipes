@@ -1,0 +1,32 @@
+body {
+    background-color: #00adef;
+    color: white;
+}
+
+h3 {
+    padding: 0px;
+    margin: 0px;
+}
+
+img {
+    height: 33%;
+    width: 33%;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+a {
+    color: white;
+    font-weight: 600;
+    text-decoration: none; 
+}
+
+ol ul li {
+    list-style-type: disc;
+}
+
+li img {
+    padding-bottom: 50px;
+}
